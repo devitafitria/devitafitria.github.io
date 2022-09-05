@@ -1,0 +1,68 @@
+body {
+	background: linear-gradient(to right, burlywood, coral);
+	font-family: monospace;
+}
+
+.my-photo p {
+	text-align: center;
+	padding: 3px;
+	color: white;
+	font-size: 21px;
+}
+
+.my-photo a {
+	text-align: center;
+	color: white;
+
+	text-decoration: none;
+}
+
+img {
+	margin-top: 30px;
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 99em;
+	box-shadow: 0px 0px 10px 5px;
+	color: white;
+}
+
+.my-instagram h2 {
+	text-align: left;
+	border-radius: 20px;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	box-shadow: 0px 0px 10px 3px;
+	background: lightyellow;
+}
+
+.my-instagram a {
+	text-decoration: none;
+	color: brown;
+}
+
+.my-twitter h2{
+	font-size: 20px;
+	border-radius: 20px;
+	text-align: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	box-shadow: 0px 0px 10px 3px;
+	background: lightyellow;
+}
+
+.my-twitter {
+	text-decoration: none;
+	color: brown;
+}
