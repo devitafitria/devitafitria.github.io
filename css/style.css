@@ -1,6 +1,6 @@
 body {
-	background: linear-gradient(to right, burlywood, coral);
-	font-family: monospace;
+	background: beige;
+	font-family: Verdana,sans-serif;
 }
 
 .my-photo p {
@@ -10,11 +10,12 @@ body {
 	font-size: 21px;
 }
 
-.my-photo a {
+.my-photo {
 	text-align: center;
 	color: white;
 
 	text-decoration: none;
+	color: saddlebrown;
 }
 
 img {
@@ -29,9 +30,11 @@ img {
 	color: white;
 }
 
-.my-instagram h2 {
+.my-instagram p {
 	text-align: left;
 	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
 	font-size: 20px;
 	padding: 30px;
 	margin: 30px;
@@ -39,30 +42,32 @@ img {
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	box-shadow: 0px 0px 10px 3px;
-	background: lightyellow;
+	background: white;
+	border-width: 5px;
 }
 
 .my-instagram a {
 	text-decoration: none;
-	color: brown;
+	color: saddlebrown;
 }
 
-.my-twitter h2 {
-	font-size: 20px;
-	border-radius: 20px;
+.my-twitter p {
 	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
 	padding: 30px;
 	margin: 30px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 500px;
 	height: 20px;
-	box-shadow: 0px 0px 10px 3px;
-	background: lightyellow;
+	background: white;
+	border-width: 5px;
 }
 
 .my-twitter a {
 	text-decoration: none;
-	color: brown;
+	color: saddlebrown;
 }
