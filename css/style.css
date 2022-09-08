@@ -71,3 +71,128 @@ img {
 	text-decoration: none;
 	color: saddlebrown;
 }
+
+.my-bestie01 p {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.my-bestie01 a {
+	text-decoration: none;
+	color: saddlebrown;
+}
+
+.my-bestie02 p {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.my-bestie02 a {
+	text-decoration: none;
+	color: saddlebrown;
+}
+
+.my-bestie p {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.my-bestie a{
+	text-decoration: none;
+	color: saddlebrown;
+}
+
+.judul {
+	text-align: center;
+	color: black;
+}
+
+.tabel {
+	border-collapse: collapse;
+  	width: 100%;
+}
+
+th,
+td {
+	border: 2px solid black ;
+	text-align: center;
+	padding: 15px;
+}
+
+th:hover {
+	background-color: #d4afb9;
+}
+
+td:hover {
+	background-color: #d4afb9;
+}
+
+.tabel-utama {
+	background-color: #eeddd3;
+	text-decoration: none;
+	color: black;
+}
+
+.back-friendsjquery {
+	margin-top: 40px;
+}
+
+.back-friendsjquery a {
+	background-color: #d4afb9;
+  	font-size: 20px;
+  	color: black;
+ 	padding: 15px 25px;
+  	text-decoration: none;
+  	border-radius: 20px;
+}
+
+.back-friendsjquery a:hover {
+	background-color: #eeddd3;
+}
+.p03-tabel {
+	margin-top: 40px;
+}
+.p03-tabel a {
+	background-color: #d4afb9;
+  	font-size: 20px;
+  	color: black;
+ 	padding: 15px 25px;
+  	text-decoration: none;
+  	border-radius: 20px;
+}
+.p03-tabel a:hover {
+	background-color: #eeddd3;
+}
