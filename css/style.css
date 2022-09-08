@@ -182,6 +182,20 @@ td:hover {
 .back-friendsjquery a:hover {
 	background-color: #eeddd3;
 }
+.back-friendscss {
+	margin-top: 40 px;
+}
+.back-friendscss a {
+	background-color: #d4afb9;
+  	font-size: 20px;
+  	color: black;
+ 	padding: 15px 25px;
+  	text-decoration: none;
+  	border-radius: 20px;
+}
+.back-friendscss a:hover {
+	background-color: #eeddd3;
+}
 .p03-tabel {
 	margin-top: 40px;
 }
