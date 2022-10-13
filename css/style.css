@@ -12,7 +12,7 @@ body {
 
 .my-photo:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -56,7 +56,7 @@ img {
 
 .my-instagram p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -84,7 +84,7 @@ img {
 
 .my-twitter p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 .my-twitter a {
@@ -111,7 +111,7 @@ img {
 
 .my-bestie01 p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 .my-bestie01 a {
@@ -138,7 +138,7 @@ img {
 
 .my-bestie02 p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -166,7 +166,7 @@ img {
 
 .my-bestie p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -193,7 +193,7 @@ img {
 }
 .fadeout p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -245,6 +245,7 @@ td:hover {
  	padding: 15px 25px;
   	text-decoration: none;
   	border-radius: 20px;
+
 }
 
 .back-friendsjquery a:hover {
@@ -287,7 +288,7 @@ td:hover {
 .p03-tabel a:hover {
 	background-color: #eeddd3;
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -309,7 +310,7 @@ td:hover {
 }
 .form-ikmi p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -336,7 +337,7 @@ td:hover {
 
 .formcss p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 
@@ -363,9 +364,88 @@ td:hover {
 
 .sliding p:hover{
 	cursor: pointer;
-  	letter-spacing: 10px;
+  	letter-spacing: 5px;
   	transition: .2s;
 }
 .sliding a {
 	text-decoration: none;
 	color: saddlebrown;
+}
+.responsive p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.responsive p:hover{
+	cursor: pointer;
+  	letter-spacing: 5px;
+  	transition: .2s;
+}
+.responsive a {
+	text-decoration: none;
+	color: saddlebrown;
+}
+.kopsu p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.kopsu p:hover{
+	cursor: pointer;
+  	letter-spacing: 5px;
+  	transition: .2s;
+}
+.kopsu a {
+	text-decoration: none;
+	color: saddlebrown;
+}
+.spa p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.spa p:hover{
+	cursor: pointer;
+  	letter-spacing: 5px;
+  	transition: .2s;
+}
+.spa a {
+	text-decoration: none;
+	color: saddlebrown;
+}
