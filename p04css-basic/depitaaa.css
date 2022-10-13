@@ -1,0 +1,69 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+  	background-image: url(itachi.jpg);
+  	background-position: center;
+  	margin: auto;
+  	width: 1200px;
+}
+.pertama {
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif; 
+	display: block;
+	color: white;
+}
+.kedua {
+	font-size: 15px;
+	color: yellow;
+}
+.ketiga p{
+	margin-top: ;
+	font-weight: bold;
+	text-decoration: underline;
+	color: red;
+}
+.ketiga li {
+	font-style: italic;
+	color: white;
+}
+option:hover {
+  	background-color: lightcoral;
+}
+select:hover {
+	background-color: lightcoral;
+}
+textarea:hover {
+  	background-color: lightcoral;
+}
+input:hover {
+  	background-color: lightcoral;
+}
+input type:hover {
+	background-color: lightcoral;
+}
+legend {
+	color: white;
+}
+fieldset{
+	font-style: italic;
+}
+.akhir {
+	color: white;
+}
+.penter {
+	color: white;
+}
+.tfrom {
+	color: white;
+}
+.datprib {
+	color: white;
+}
+.sastra:hover{
+	background-color: lightcoral;
+}
+.jenjang:hover{
+	background-color: lightcoral;
+}
+.program:hover{
+	background-color: lightcoral;
+}

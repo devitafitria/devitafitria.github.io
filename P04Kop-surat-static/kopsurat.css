@@ -1,0 +1,131 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+.pembungkus-kopsu{
+    width: 100%;
+    border: 1px solid #ccc;
+    max-width: 21cm;
+    max-height: 29cm;
+    margin: auto;
+    padding: 1cm 1cm 1cm 1cm;
+    background-color: white
+}
+
+.kopsu-sampul{
+    width: 20cm;
+    height: 3.5cm;
+    display: grid;
+    grid-template-columns: 11cm 8cm;
+}
+
+.logo-ikmi{
+    width: 1.8cm;
+    margin-top: 5px;
+}
+
+.judul-utama{
+    width: 19cm;
+    height: 24cm;
+}
+
+.logo-alamat{
+    height: 2cm;
+}
+
+.logo{
+    text-align: center;
+}
+
+.logo-kiri{
+    display: grid;
+    grid-template-columns: 2cm auto;
+}
+
+.logo-alamat{
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+
+.tebal{
+    font-weight: bold;
+}
+
+.sampul-sk{
+    height: 0.6cm;
+    padding-top: 1.5px;
+}
+
+.warna-sk{
+    background-color: red;
+}
+
+.warna-sk, .warna-terakreditasi{
+    text-align: center;
+    color: white;
+}
+
+.ikmi-satu{
+    font-size: 11px;
+    letter-spacing: .2px;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 7px;
+    padding-top: 5px;
+}
+
+.warna-terakreditasi{
+    background-color: green;
+}
+
+.warna-stmik{
+    font-size: 60px;
+    font-weight: bold;
+    color: red;
+    margin-top: -10px;
+    letter-spacing: 5px;
+    padding-left: 10px;
+}
+
+.warna-ikmi{
+    color: blue;
+    font-size: 32px;
+    letter-spacing: 10px;
+    margin-top: -2.5px;
+}
+.kab{
+    color: green;
+    letter-spacing: 5.5px;
+    font-size: 16px;
+    margin-top: -7px;
+}
+
+.warna-ikmi, .warna-cirebon{
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.judul-utama-1{
+    text-align: center;
+    margin: 15px 0 0 0;
+    font-size: 16pt;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+.sampul-stmik-ikmi{
+    display: grid;
+    grid-template-columns: 5.5cm auto;
+    display: pinkz;
+    margin-top: 8px;
+}
+
+.nomor-surat{
+    text-align: center;
+    font-size: 10pt;
+    margin-top: 5px;
+}

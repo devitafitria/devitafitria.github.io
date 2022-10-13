@@ -10,6 +10,12 @@ body {
 	font-size: 21px;
 }
 
+.my-photo:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
+
 .my-photo {
 	text-align: center;
 	color: white;
@@ -28,10 +34,12 @@ img {
 	border-radius: 99em;
 	box-shadow: 0px 0px 10px 5px;
 	color: white;
+	
 }
 
 .my-instagram p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	border-color: saddlebrown;
@@ -44,6 +52,12 @@ img {
 	height: 20px;
 	background: white;
 	border-width: 5px;
+}
+
+.my-instagram p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
 }
 
 .my-instagram a {
@@ -53,6 +67,7 @@ img {
 
 .my-twitter p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	border-color: saddlebrown;
@@ -67,6 +82,11 @@ img {
 	border-width: 5px;
 }
 
+.my-twitter p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
 .my-twitter a {
 	text-decoration: none;
 	color: saddlebrown;
@@ -74,6 +94,7 @@ img {
 
 .my-bestie01 p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	border-color: saddlebrown;
@@ -88,6 +109,11 @@ img {
 	border-width: 5px;
 }
 
+.my-bestie01 p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
 .my-bestie01 a {
 	text-decoration: none;
 	color: saddlebrown;
@@ -95,6 +121,7 @@ img {
 
 .my-bestie02 p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	border-color: saddlebrown;
@@ -107,6 +134,12 @@ img {
 	height: 20px;
 	background: white;
 	border-width: 5px;
+}
+
+.my-bestie02 p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
 }
 
 .my-bestie02 a {
@@ -116,6 +149,7 @@ img {
 
 .my-bestie p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	border-color: saddlebrown;
@@ -130,7 +164,40 @@ img {
 	border-width: 5px;
 }
 
+.my-bestie p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
+
 .my-bestie a{
+	text-decoration: none;
+	color: saddlebrown;
+}
+
+.fadeout p{
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+.fadeout p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
+
+.fadeout a{
 	text-decoration: none;
 	color: saddlebrown;
 }
@@ -173,6 +240,7 @@ td:hover {
 .back-friendsjquery a {
 	background-color: #d4afb9;
   	font-size: 20px;
+  	font-weight: bold;
   	color: black;
  	padding: 15px 25px;
   	text-decoration: none;
@@ -181,12 +249,16 @@ td:hover {
 
 .back-friendsjquery a:hover {
 	background-color: #eeddd3;
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
 }
 .back-friendscss {
 	margin-top: 40px;
 }
 .back-friendscss a {
 	background-color: #d4afb9;
+	font-weight: bold;
   	font-size: 20px;
   	color: black;
  	padding: 15px 25px;
@@ -195,18 +267,105 @@ td:hover {
 }
 .back-friendscss a:hover {
 	background-color: #eeddd3;
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
 }
 .p03-tabel {
 	margin-top: 40px;
 }
 .p03-tabel a {
 	background-color: #d4afb9;
+	font-weight: bold;
   	font-size: 20px;
   	color: black;
  	padding: 15px 25px;
   	text-decoration: none;
   	border-radius: 20px;
 }
+
 .p03-tabel a:hover {
 	background-color: #eeddd3;
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
 }
+
+.form-ikmi p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+.form-ikmi p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
+
+.form-ikmi a {
+	text-decoration: none;
+	color: saddlebrown;
+}
+.formcss p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.formcss p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
+
+.formcss a {
+	text-decoration: none;
+	color: saddlebrown;
+}
+.sliding p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: saddlebrown;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: white;
+	border-width: 5px;
+}
+
+.sliding p:hover{
+	cursor: pointer;
+  	letter-spacing: 10px;
+  	transition: .2s;
+}
+.sliding a {
+	text-decoration: none;
+	color: saddlebrown;

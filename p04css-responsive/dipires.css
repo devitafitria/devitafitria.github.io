@@ -1,0 +1,156 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+  	background-image: url(itachi.jpg);
+  	background-position: center;
+}
+.pertama {
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif; 
+	display: block;
+	color: white;
+}
+.pertama:hover{
+  cursor: pointer;
+  letter-spacing: 5px;
+  transition: .2s;
+}
+.kedua {
+  margin-top: 30px;
+	font-size: 15px;
+	color: yellow;
+}
+.kedua:hover{
+  cursor: pointer;
+  letter-spacing: 5px;
+  transition: .2s;
+}
+.ketiga p{
+	margin-top: 50px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: lightgoldenrodyellow;
+}
+.ketiga p:hover{
+  cursor: pointer;
+  letter-spacing: 5px;
+  transition: .2s;
+}
+.ketiga li {
+	font-style: italic;
+	color: white;
+}
+option:hover {
+  	background-color: lightgoldenrodyellow;
+}
+select:hover {
+	background-color: lightgoldenrodyellow;
+}
+textarea:hover {
+  	background-color: lightgoldenrodyellow;
+}
+input:hover {
+  	background-color: lightgoldenrodyellow;
+}
+input type:hover {
+	background-color: lightgoldenrodyellow;
+}
+legend {
+	color: maroon;
+  margin: auto;
+  background-color: lightgoldenrodyellow;
+  padding: 5px;
+  border-radius: 10px;
+}
+legend:hover {
+  cursor: pointer;
+  letter-spacing: 5px;
+  transition: .2s;
+}
+fieldset{
+	font-style: italic;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: maroon;
+  border-radius: 20px;
+  margin-top: 20px;
+  width: 75%;
+}
+button{
+  margin: auto;
+  color: white;
+  font-weight: bold;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color:maroon;
+  border-radius: 20px;
+  border-color: white;
+  margin-top: 20px;
+  display: block;
+  cursor: pointer;
+}
+button:hover {
+  cursor: pointer;
+  letter-spacing: 10px;
+  transition: .2s;
+}
+.penter {
+	color: white;
+}
+.tfrom {
+	color: white;
+}
+.datprib {
+	color: white;
+}
+.sastra:hover{
+	background-color: black;
+}
+.jenjang:hover{
+	background-color: black;
+}
+.program:hover{
+	background-color: black;
+}
+@media screen and (max-width: 800px) {
+  .kopsurat {
+    width: 100%;
+    padding: 0;
+  }
+  .pertama {
+    flex-direction: column;
+    gap: 5px;
+  }
+  .kedua {
+    width: 100%;
+  }
+  .ketiga {
+    width: 100%;
+  }
+  .jenjang {
+    visibility: visible;
+  }
+  .program {
+    font-size: 1rem;
+  }
+}
+
+  @media screen and (max-width: 410px) {
+    .kopsurat {
+      width: 100%;
+      padding: 0;
+    }
+    .pertama {
+      flex-direction: column;
+      gap: 5px;
+    }
+    .kedua {
+      width: 100%;
+    }
+    .ketiga {
+      width: 100%;
+    }
+    .catatan {
+    visibility: hidden;
+    }
+  }

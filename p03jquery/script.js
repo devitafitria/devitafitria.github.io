@@ -6,3 +6,4 @@ $(document).ready(() => {
     alert("Sekarang Anda berada di " + $(this).html() + "!");
   });
 });
+
