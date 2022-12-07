@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html {
+	font-size: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+.depi {
+	min-height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+/* beranda section */
+#beranda {
+	background-image: url(anime.jpg);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+}
+#beranda::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	opacity: .7;
+	z-index: -1;
+
+}
+#beranda h1 {
+	display: block;
+	width: fit-content;
+	font-size: 4rem;
+	position: relative;
+	color: white;
+}
+#beranda .dipi{
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 30px;
+	color: #FFABE1;
+	background-color: #98A8F8 ;
+	border: 3px solid #BCCEF8;
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	margin-top: 30px;
+	transition: .3s ease;
+}
+#beranda .dipi:hover{
+	color: #BCCEF8;
+	background-color: #FAF7F0;
+}
+/* End beranda section */
